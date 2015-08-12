@@ -1,6 +1,6 @@
 # Data harvester
 
-** This repo is deprecated and doesn't get support anymore**
+**This repo is deprecated and doesn't get support anymore**
 
 Scraping is a slow task, usually run by multiple machines. These commands add messages to a queue, with specific data on what to scrape. Workers then listen to the queue and start scraping. Just add more workers to get the job done more quickly.
 
